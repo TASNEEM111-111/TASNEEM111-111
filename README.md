@@ -23,10 +23,10 @@
         <ul>
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.com/resume/sc91mhdqwf"LINK TO MY RESUME</a>.</li>
-            <li>💬 <b>Ask me about anything</b>: <a href="https://www.linkedin.com/in/tasneem-selim-53b432200">Here</a>.</li>
+            <li>💬 <b>Ask me about anything</b>: <a href=""https://github.com/TASNEEM111-111/TASNEEM111-111/issues"">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
-            <li>👨‍💻 <b>Hire me for DevOps jobs</b>: <a href="**https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680**">Link to my UpWork DevOps Specialization</a>.</li>
+            <li>👨‍💻 <b>Hire me for DevOps jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680">Link to my UpWork DevOps Specialization</a>.</li>
         </ul>
     </div>
     <div align=center>
