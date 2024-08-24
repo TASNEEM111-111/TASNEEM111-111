@@ -28,6 +28,7 @@
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
             <li>👨‍💻 <b>Hire me for DevOps jobs</b>: <a href="https://www.upwork.com/freelancers/~01a6284d97b5985aae">Link to my UpWork DevOps Specialization</a>.</li>
         </ul>
+        ## 💻🛠 &nbsp; Languages & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
